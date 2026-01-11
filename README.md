@@ -33,23 +33,23 @@ The dataset contains time-based financial records used for revenue analysis and 
 
 📦 Financial-Operations-Analytics
 │
-├── 📄 financial_customers.csv        # Customer master data
-├── 📄 financial_transactions.csv     # Transaction history
-├── 📄 monthly_revenue.csv            # Aggregated monthly revenue metrics
+├── 📄 financial_customers.csv           # Customer master data
+├── 📄 financial_transactions.csv        # Transaction history
+├── 📄 monthly_revenue.csv               # Aggregated monthly revenue metrics
 │
-├── 🧠 financial_analytics.py         # End-to-end financial analytics pipeline
-├── 📌 kpi_summary.txt                # Key financial and operational KPIs
+├── 🧠 financial_analytics.py            # End-to-end financial analytics pipeline
+├── 📌 kpi_summary.txt                   # Key financial and operational KPIs
 │
-├── ⚠️ at_risk_customers.csv          # Customers with high churn risk
-├── 📊 rfm_segmentation.csv           # RFM-based customer segmentation
+├── ⚠️ at_risk_customers.csv             # Customers with high churn risk
+├── 📊 rfm_segmentation.csv              # RFM-based customer segmentation
 │
-├── 📁 financial_viz/                 # Visual outputs (16 files)
+├── 📁 financial_viz                     # Visual outputs (16 files)
 │   ├── 📈 01_initial_exploration.png
 │   ├── 📉 02_ts_decomposition.png
-│   ├── 📈 03_acf_pacf_analysis.png
+│   ├── 📊 03_acf_pacf_analysis.png
 │   ├── 🔮 04_arima_forecast.png
 │   ├── 🔮 05_prophet_forecast.png
-│   ├── 📅 06_prophet_components.png
+│   ├── 🧩 06_prophet_components.png
 │   ├── 🚨 07_churn_analysis.png
 │   ├── 🧪 08_churn_model_evaluation.png
 │   ├── 🌲 09_churn_feature_importance.png
@@ -61,7 +61,7 @@ The dataset contains time-based financial records used for revenue analysis and 
 │   ├── 📊 15_profitability_dashboard.png
 │   └── 🧾 16_FINAL_EXECUTIVE_DASHBOARD.png
 │
-└── 📘 README.md                      # Project documentation
+└── 📘 README.md                         # Project documentation
 
 ---
 
