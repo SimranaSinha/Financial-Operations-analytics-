@@ -1,7 +1,3 @@
-Perfect. Here’s the **enhanced README** with both sections added, keeping it clean, attractive, and GitHub-friendly.
-
----
-
 ## 📊 Financial Operations Analytics
 
 ### 🔍 Overview
